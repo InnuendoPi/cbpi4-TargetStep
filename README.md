@@ -6,10 +6,14 @@ This small helper plugin just sets the target temperature of a kettle.
 
 - sudo pip3 install https://github.com/InnuendoPi/cbpi4-TargetStep/archive/main.zip
 
-## Activation
+## Update
+
+- sudo pip3 install --upgrade https://github.com/InnuendoPi/cbpi4-TargetStep/archive/main.zip
+
+## Add plugin to CBPi4
 
 - sudo cbpi add cbpi4-TargetStep
 
-## Deactivation
+## Remove plugin from CBPI4
 
 - sudo cbpi remove cbpi4-TargetStep
