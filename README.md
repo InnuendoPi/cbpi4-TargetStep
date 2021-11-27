@@ -1,2 +1,3 @@
-"# cbpi4-TargetStep" 
-"# cbpi4-TargetStep" 
+# craftbeerpi plugin TargetStep
+
+This small helper plugin just sets the target temperature of a kettle.
